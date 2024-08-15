@@ -12,7 +12,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/websocket-groupchat.git
+git clone https://github.com/yourusernamenotAnotherAverageJoe/websocket-groupchat.git
 cd websocket-groupchat
 Install Dependencies:
 Make sure you have Node.js installed. Then, install the required packages:
